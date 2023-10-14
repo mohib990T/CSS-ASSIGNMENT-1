@@ -1,0 +1,42 @@
+#heading1 {
+    color: rgb(205, 13, 13);
+}
+#heading2 {
+    color: rgb(222, 90, 42);
+    font-style: italic;
+}
+.ordered {
+    color: brown;
+    padding: 14px;
+}
+#ol1 {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#ol2 {
+    font-weight: bold;
+    background-color: yellow;
+}
+#ol3 {
+    font-style: italic;
+    text-decoration: underline;
+}
+#heading3 {
+    color: rgb(222, 90, 42);
+    font-style: italic;
+}
+.unordered {
+    color: brown;
+    letter-spacing: 4px;
+}
+#ul1 {
+    background-color: yellow;
+}
+.para {
+    color: brown;
+    padding:  7px 7px 7px 0px;
+}
+a {
+    color: red;
+    background-color: yellow;
+}
